@@ -1,0 +1,24 @@
+==Deconsructing People==
+
+
+Mon Apr 25 05:29:21 PM +0530 2022
+
+*SELF ESTEEM* 
+_Scale of 1-5_
+| *Character Name* | *Act1* | *Act2* | *Act3* |
+| Dev              | 3      | 2      | 2      |
+| Anaka            | 3      | 1      | 3      |
+
+*SOCIAL REPUTATION*
+_Scale of 1-5_
+| *Character Name* | *Act1* | *Act2* | *Act3* |
+| Dev              | 1      | 2      | 5      |
+| Anaka            | 3      | 4      | 2      |
+
+_*Psycological Score*_= Self Esteem - Social Reputation at each act 
+
+For example: 
+
+- Dev in *Act1* would be 3-1, giving him a Psycological score of 2 for act1
+- Dev in *Act2* would be 2-2, giving him a Psycological score of 0 for act2
+- Dev in *Act3* would be 2-5, givng him a Psycological score of -3 for act 3 

@@ -1,0 +1,507 @@
+time 1651517786
+new [description:"go to nawala" entry:"1651517786" modified:"1651517786" status:"pending" uuid:"e214befd-aeec-4bd0-a2b1-8ebec785edae"]
+---
+time 1651517900
+old [description:"go to nawala" entry:"1651517786" modified:"1651517786" status:"pending" uuid:"e214befd-aeec-4bd0-a2b1-8ebec785edae"]
+new [description:"go to nawala" end:"1651517898" entry:"1651517786" modified:"1651517900" status:"deleted" uuid:"e214befd-aeec-4bd0-a2b1-8ebec785edae"]
+---
+time 1651518091
+new [description:"Shoot First Video" entry:"1651518091" modified:"1651518091" status:"pending" tags:"YouTubeChanel" uuid:"6f520b5f-3856-42d1-b933-a44bba35f73e"]
+---
+time 1651518152
+new [description:"Finish Act1" entry:"1651518152" modified:"1651518152" project:"PalaDoc" status:"pending" uuid:"4a848fb8-4aba-471d-8d1b-c72c0301d280"]
+---
+time 1651518240
+new [description:"cut Act2 audio first" entry:"1651518240" modified:"1651518240" priority:"H" project:"PalaDoc" status:"pending" uuid:"6dfbc864-d1ce-45f3-bab8-ccce1900b1a4"]
+---
+time 1651684658
+old [description:"Shoot First Video" entry:"1651518091" modified:"1651518091" status:"pending" tags:"YouTubeChanel" uuid:"6f520b5f-3856-42d1-b933-a44bba35f73e"]
+new [description:"Shoot First Video" end:"1651684656" entry:"1651518091" modified:"1651684658" status:"deleted" tags:"YouTubeChanel" uuid:"6f520b5f-3856-42d1-b933-a44bba35f73e"]
+---
+time 1651684668
+old [description:"Finish Act1" entry:"1651518152" modified:"1651518152" project:"PalaDoc" status:"pending" uuid:"4a848fb8-4aba-471d-8d1b-c72c0301d280"]
+new [description:"Finish Act1" end:"1651684662" entry:"1651518152" modified:"1651684668" project:"PalaDoc" status:"deleted" uuid:"4a848fb8-4aba-471d-8d1b-c72c0301d280"]
+---
+time 1651684668
+old [description:"cut Act2 audio first" entry:"1651518240" modified:"1651518240" priority:"H" project:"PalaDoc" status:"pending" uuid:"6dfbc864-d1ce-45f3-bab8-ccce1900b1a4"]
+new [description:"cut Act2 audio first" end:"1651684668" entry:"1651518240" modified:"1651684668" priority:"H" project:"PalaDoc" status:"deleted" uuid:"6dfbc864-d1ce-45f3-bab8-ccce1900b1a4"]
+---
+time 1651685042
+new [description:"Tis is another test" entry:"1651685042" modified:"1651685042" status:"pending" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+---
+time 1651685400
+new [description:"Tis is another test" end:"1651685400" entry:"1651685400" modified:"1651685400" status:"completed" uuid:"8b1d7a5f-2733-41b0-afff-3942c769c502"]
+---
+time 1651685439
+old [description:"Tis is another test" entry:"1651685042" modified:"1651685042" status:"pending" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+new [description:"Tis is another test" end:"1651685439" entry:"1651685042" modified:"1651685439" status:"completed" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+---
+time 1651686038
+new [description:"Task one" entry:"1651686038" modified:"1651686038" status:"pending" uuid:"ce436b4d-046b-4927-a3bf-12c1a898e1af"]
+---
+time 1651686038
+new [description:"task 2.1" entry:"1651686038" modified:"1651686038" status:"pending" uuid:"22c023a8-2324-45bb-a84b-e45a80c99cd0"]
+---
+time 1651686038
+new [description:"t" entry:"1651686038" modified:"1651686038" status:"pending" uuid:"e07e0d8c-0b12-4f66-8a14-157966e771b5"]
+---
+time 1651686038
+new [depends:"22c023a8-2324-45bb-a84b-e45a80c99cd0" description:"task two:" entry:"1651686038" modified:"1651686038" status:"pending" uuid:"32a00f8c-6f64-4e61-9034-4589d16fb0e5"]
+---
+time 1651686052
+old [description:"t" entry:"1651686038" modified:"1651686038" status:"pending" uuid:"e07e0d8c-0b12-4f66-8a14-157966e771b5"]
+new [description:"task 3" entry:"1651686038" modified:"1651686052" status:"pending" uuid:"e07e0d8c-0b12-4f66-8a14-157966e771b5"]
+---
+time 1651686097
+old [description:"Task one" entry:"1651686038" modified:"1651686038" status:"pending" uuid:"ce436b4d-046b-4927-a3bf-12c1a898e1af"]
+new [description:"Task one" end:"1651686097" entry:"1651686038" modified:"1651686097" status:"completed" uuid:"ce436b4d-046b-4927-a3bf-12c1a898e1af"]
+---
+time 1651686220
+old [description:"task 3" entry:"1651686038" modified:"1651686052" status:"pending" uuid:"e07e0d8c-0b12-4f66-8a14-157966e771b5"]
+new [description:"task 3" end:"1651686220" entry:"1651686038" modified:"1651686220" status:"completed" uuid:"e07e0d8c-0b12-4f66-8a14-157966e771b5"]
+---
+time 1651686225
+old [depends:"22c023a8-2324-45bb-a84b-e45a80c99cd0" description:"task two:" entry:"1651686038" modified:"1651686038" status:"pending" uuid:"32a00f8c-6f64-4e61-9034-4589d16fb0e5"]
+new [depends:"22c023a8-2324-45bb-a84b-e45a80c99cd0" description:"task two:" end:"1651686225" entry:"1651686038" modified:"1651686225" status:"completed" uuid:"32a00f8c-6f64-4e61-9034-4589d16fb0e5"]
+---
+time 1651686239
+old [description:"task 2.1" entry:"1651686038" modified:"1651686038" status:"pending" uuid:"22c023a8-2324-45bb-a84b-e45a80c99cd0"]
+new [description:"task 2.1" end:"1651686239" entry:"1651686038" modified:"1651686239" status:"completed" uuid:"22c023a8-2324-45bb-a84b-e45a80c99cd0"]
+---
+time 1651686301
+old [description:"task 2.1" end:"1651686239" entry:"1651686038" modified:"1651686239" status:"completed" uuid:"22c023a8-2324-45bb-a84b-e45a80c99cd0"]
+new [description:"task 2.1" end:"1651686239" entry:"1651686038" modified:"1651686301" status:"deleted" uuid:"22c023a8-2324-45bb-a84b-e45a80c99cd0"]
+---
+time 1651686301
+old [description:"task 3" end:"1651686220" entry:"1651686038" modified:"1651686220" status:"completed" uuid:"e07e0d8c-0b12-4f66-8a14-157966e771b5"]
+new [description:"task 3" end:"1651686220" entry:"1651686038" modified:"1651686301" status:"deleted" uuid:"e07e0d8c-0b12-4f66-8a14-157966e771b5"]
+---
+time 1651686301
+old [depends:"22c023a8-2324-45bb-a84b-e45a80c99cd0" description:"task two:" end:"1651686225" entry:"1651686038" modified:"1651686225" status:"completed" uuid:"32a00f8c-6f64-4e61-9034-4589d16fb0e5"]
+new [depends:"22c023a8-2324-45bb-a84b-e45a80c99cd0" description:"task two:" end:"1651686225" entry:"1651686038" modified:"1651686301" status:"deleted" uuid:"32a00f8c-6f64-4e61-9034-4589d16fb0e5"]
+---
+time 1651686301
+old [description:"Task one" end:"1651686097" entry:"1651686038" modified:"1651686097" status:"completed" uuid:"ce436b4d-046b-4927-a3bf-12c1a898e1af"]
+new [description:"Task one" end:"1651686097" entry:"1651686038" modified:"1651686301" status:"deleted" uuid:"ce436b4d-046b-4927-a3bf-12c1a898e1af"]
+---
+time 1651686301
+old [description:"Tis is another test" end:"1651685439" entry:"1651685042" modified:"1651685439" status:"completed" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+new [description:"Tis is another test" end:"1651685439" entry:"1651685042" modified:"1651686301" status:"deleted" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+---
+time 1651686301
+old [description:"Tis is another test" end:"1651685400" entry:"1651685400" modified:"1651685400" status:"completed" uuid:"8b1d7a5f-2733-41b0-afff-3942c769c502"]
+new [description:"Tis is another test" end:"1651685400" entry:"1651685400" modified:"1651686301" status:"deleted" uuid:"8b1d7a5f-2733-41b0-afff-3942c769c502"]
+---
+time 1651686447
+new [description:":Project" entry:"1651686447" modified:"1651686447" status:"pending" uuid:"0c4e0bec-2cac-4b38-bc9c-69bf86d1fdc5"]
+---
+time 1651686463
+old [description:":Project" entry:"1651686447" modified:"1651686447" status:"pending" uuid:"0c4e0bec-2cac-4b38-bc9c-69bf86d1fdc5"]
+new [description:":Project" end:"1651686463" entry:"1651686447" modified:"1651686463" status:"completed" uuid:"0c4e0bec-2cac-4b38-bc9c-69bf86d1fdc5"]
+---
+time 1651694219
+new [description:"Write script see &open;&open;Introduction_to_Channel|Introduction_to_Channel&close;&close;" entry:"1651694219" modified:"1651694219" status:"pending" uuid:"856d871c-25d3-4da5-b0f3-bd7ba7cce7b0"]
+---
+time 1651694235
+old [description:"Write script see &open;&open;Introduction_to_Channel|Introduction_to_Channel&close;&close;" entry:"1651694219" modified:"1651694219" status:"pending" uuid:"856d871c-25d3-4da5-b0f3-bd7ba7cce7b0"]
+new [description:"Write script see &open;&open;Introduction_to_Channel|Introduction_to_Channel&close;&close;" end:"1651694235" entry:"1651694219" modified:"1651694235" status:"completed" uuid:"856d871c-25d3-4da5-b0f3-bd7ba7cce7b0"]
+---
+time 1651694468
+old [description:"Write script see &open;&open;Introduction_to_Channel|Introduction_to_Channel&close;&close;" end:"1651694235" entry:"1651694219" modified:"1651694235" status:"completed" uuid:"856d871c-25d3-4da5-b0f3-bd7ba7cce7b0"]
+new [description:"Write script see &open;&open;Introduction_to_Channel|Introduction_to_Channel&close;&close;" end:"1651694235" entry:"1651694219" modified:"1651694468" status:"deleted" uuid:"856d871c-25d3-4da5-b0f3-bd7ba7cce7b0"]
+---
+time 1651845186
+old [description:"Tis is another test" end:"1651685439" entry:"1651685042" modified:"1651686301" status:"deleted" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+new [description:"Tis is another test" entry:"1651685042" modified:"1651845186" start:"1651845186" status:"pending" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+---
+time 1651845192
+new [description:"something test" entry:"1651845192" modified:"1651845192" status:"pending" uuid:"e50bb55c-814a-480b-945d-ea135a1eff7f"]
+---
+time 1651845198
+old [description:"something test" entry:"1651845192" modified:"1651845192" status:"pending" uuid:"e50bb55c-814a-480b-945d-ea135a1eff7f"]
+new [description:"something test" end:"1651845198" entry:"1651845192" modified:"1651845198" status:"completed" uuid:"e50bb55c-814a-480b-945d-ea135a1eff7f"]
+---
+time 1651845338
+new [description:"l" end:"1651845338" entry:"1651845338" modified:"1651845338" status:"completed" uuid:"58598f67-fdf6-4cbe-9ed7-9e516a5f3c29"]
+---
+time 1651845872
+old [description:"Tis is another test" entry:"1651685042" modified:"1651845186" start:"1651845186" status:"pending" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+new [description:"Tis is another test" end:"1651845872" entry:"1651685042" modified:"1651845872" status:"completed" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+---
+time 1651846070
+old [depends:"22c023a8-2324-45bb-a84b-e45a80c99cd0" description:"task two:" end:"1651686225" entry:"1651686038" modified:"1651686301" status:"deleted" uuid:"32a00f8c-6f64-4e61-9034-4589d16fb0e5"]
+new [description:"task two:" end:"1651686225" entry:"1651686038" modified:"1651846070" status:"deleted" uuid:"32a00f8c-6f64-4e61-9034-4589d16fb0e5"]
+---
+time 1651846092
+old [description:"l" end:"1651845338" entry:"1651845338" modified:"1651845338" status:"completed" uuid:"58598f67-fdf6-4cbe-9ed7-9e516a5f3c29"]
+new [description:"l" end:"1651845338" entry:"1651845338" modified:"1651846092" status:"deleted" uuid:"58598f67-fdf6-4cbe-9ed7-9e516a5f3c29"]
+---
+time 1651846218
+old [description:"Tis is another test" end:"1651845872" entry:"1651685042" modified:"1651845872" status:"completed" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+new [description:"Tis is another test" end:"1651845872" entry:"1651685042" modified:"1651846218" status:"deleted" uuid:"eef4c80e-4f94-435c-a5bf-2ea045d02ddd"]
+---
+time 1651846222
+old [description:"something test" end:"1651845198" entry:"1651845192" modified:"1651845198" status:"completed" uuid:"e50bb55c-814a-480b-945d-ea135a1eff7f"]
+new [description:"something test" end:"1651845198" entry:"1651845192" modified:"1651846222" status:"deleted" uuid:"e50bb55c-814a-480b-945d-ea135a1eff7f"]
+---
+time 1652008633
+new [description:"Pay Eric +PersonalTasks" entry:"1652008633" modified:"1652008633" status:"pending" uuid:"2df549e4-fe82-4e90-b037-d146498868cc"]
+---
+time 1652008739
+new [description:"- Pay Another Person +PersonalTasks" entry:"1652008739" modified:"1652008739" status:"pending" uuid:"ebc7dbcd-b5f2-41d7-8d06-f9c7f31a6201"]
+---
+time 1652016043
+old [description:"- Pay Another Person +PersonalTasks" entry:"1652008739" modified:"1652008739" status:"pending" uuid:"ebc7dbcd-b5f2-41d7-8d06-f9c7f31a6201"]
+new [description:"Pay Another Person +PersonalTasks" entry:"1652008739" modified:"1652016043" status:"pending" uuid:"ebc7dbcd-b5f2-41d7-8d06-f9c7f31a6201"]
+---
+time 1652016063
+old [description:"Pay Another Person +PersonalTasks" entry:"1652008739" modified:"1652016043" status:"pending" uuid:"ebc7dbcd-b5f2-41d7-8d06-f9c7f31a6201"]
+new [description:"Pay Another Person +PersonalTasks" end:"1652016063" entry:"1652008739" modified:"1652016063" status:"completed" uuid:"ebc7dbcd-b5f2-41d7-8d06-f9c7f31a6201"]
+---
+time 1652016084
+old [description:"Pay Another Person +PersonalTasks" end:"1652016063" entry:"1652008739" modified:"1652016063" status:"completed" uuid:"ebc7dbcd-b5f2-41d7-8d06-f9c7f31a6201"]
+new [description:"Pay Another Person +PersonalTasks" end:"1652016063" entry:"1652008739" modified:"1652016084" status:"deleted" uuid:"ebc7dbcd-b5f2-41d7-8d06-f9c7f31a6201"]
+---
+time 1652026664
+old [description:"Pay Eric +PersonalTasks" entry:"1652008633" modified:"1652008633" status:"pending" uuid:"2df549e4-fe82-4e90-b037-d146498868cc"]
+new [description:"Pay Eric +PersonalTasks" end:"1652026664" entry:"1652008633" modified:"1652026664" status:"completed" uuid:"2df549e4-fe82-4e90-b037-d146498868cc"]
+---
+time 1652041913
+new [description:"Call Hashan :FilmmakingYouTubeTasks:" entry:"1652041913" modified:"1652041913" status:"pending" uuid:"b2d29352-f5e0-4350-bb58-464ba2fb2f86"]
+---
+time 1652041932
+old [description:"Call Hashan :FilmmakingYouTubeTasks:" entry:"1652041913" modified:"1652041913" status:"pending" uuid:"b2d29352-f5e0-4350-bb58-464ba2fb2f86"]
+new [description:"Call Hashan :FilmmakingYouTubeTasks" entry:"1652041913" modified:"1652041932" status:"pending" uuid:"b2d29352-f5e0-4350-bb58-464ba2fb2f86"]
+---
+time 1652041940
+old [description:"Call Hashan :FilmmakingYouTubeTasks" entry:"1652041913" modified:"1652041932" status:"pending" uuid:"b2d29352-f5e0-4350-bb58-464ba2fb2f86"]
+new [description:"Call Hashan :FilmmakingYouTubeTasks" end:"1652041940" entry:"1652041913" modified:"1652041940" status:"deleted" uuid:"b2d29352-f5e0-4350-bb58-464ba2fb2f86"]
+---
+time 1652041997
+new [description:"Call Hashan :FilmmakingYouTubeTasks" entry:"1652041997" modified:"1652041997" status:"pending" uuid:"1dab7721-cdb5-4c54-a18b-f81866f9f40b"]
+---
+time 1652042026
+new [description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652042026" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652042043
+old [description:"Call Hashan :FilmmakingYouTubeTasks" entry:"1652041997" modified:"1652041997" status:"pending" uuid:"1dab7721-cdb5-4c54-a18b-f81866f9f40b"]
+new [description:"Call Hashan :FilmmakingYouTubeTasks" end:"1652042043" entry:"1652041997" modified:"1652042043" status:"deleted" uuid:"1dab7721-cdb5-4c54-a18b-f81866f9f40b"]
+---
+time 1652042276
+old [description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652042026" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652042276" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652042331
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652042276" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652042331" status:"pending" tags:"next" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652042458
+new [description:"Assemble Act 2 audio for :PalaDoc: +PalaDoc" entry:"1652042458" modified:"1652042458" status:"pending" uuid:"896ab24a-051f-435f-85ee-77a66d5c6c1a"]
+---
+time 1652042482
+old [description:"Assemble Act 2 audio for :PalaDoc: +PalaDoc" entry:"1652042458" modified:"1652042458" status:"pending" uuid:"896ab24a-051f-435f-85ee-77a66d5c6c1a"]
+new [annotation_1652042482:"due tomorrow" description:"Assemble Act 2 audio for :PalaDoc: +PalaDoc" entry:"1652042458" modified:"1652042482" status:"pending" uuid:"896ab24a-051f-435f-85ee-77a66d5c6c1a"]
+---
+time 1652042708
+new [description:"Audio Act2" entry:"1652042708" modified:"1652042708" project:"PalaDoc" status:"pending" uuid:"77a95cf9-dd7f-4a30-b823-47620f9c3930"]
+---
+time 1652042751
+old [annotation_1652042482:"due tomorrow" description:"Assemble Act 2 audio for :PalaDoc: +PalaDoc" entry:"1652042458" modified:"1652042482" status:"pending" uuid:"896ab24a-051f-435f-85ee-77a66d5c6c1a"]
+new [annotation_1652042482:"due tomorrow" description:"Assemble Act 2 audio for :PalaDoc: +PalaDoc" end:"1652042751" entry:"1652042458" modified:"1652042751" status:"deleted" uuid:"896ab24a-051f-435f-85ee-77a66d5c6c1a"]
+---
+time 1652042851
+new [description:"no smoking today" entry:"1652042851" modified:"1652042851" project:"StopSmoking" status:"pending" tags:"PersonalTasks" uuid:"f512610b-426d-4b85-9267-697045a8fe17"]
+---
+time 1652043669
+new [description:"Assemble act 2 context film" entry:"1652043669" modified:"1652043669" status:"pending" tags:"edit,PalaDoc" uuid:"5ddb3236-3cc4-4ea2-8a44-52463e5c288a"]
+---
+time 1652043758
+new [description:"Go to Nawala context +film" entry:"1652043758" modified:"1652043758" status:"pending" uuid:"7708d1f0-621d-4d13-be52-c286fc9249d8"]
+---
+time 1652044103
+new [description:"film" entry:"1652044103" modified:"1652044103" status:"pending" tags:"PalaDo" uuid:"c0d8f951-5069-4f88-86b3-14742cf1a972"]
+---
+time 1652045748
+new [description:"write everyday" entry:"1652045748" modified:"1652045748" status:"pending" tags:"LastSolipsist" uuid:"0f288a75-5bb2-4f74-9b00-45e3cc622327"]
+---
+time 1652045934
+new [description:"write everyday daily" due:"1652113800" entry:"1652045934" modified:"1652045934" status:"pending" until:"1653935400" uuid:"273abb00-bc4e-4e0c-8dc6-6bad6289e003"]
+---
+time 1652047546
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652042331" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047546" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047546
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047546" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047546" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047547
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047546" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047547" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047548
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047547" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047548" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047548
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047548" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047548" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047550
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047548" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047550" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047551
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047550" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047551" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047552
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047551" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047552" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047552
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047552" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047552" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047554
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047552" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047554" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047570
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047554" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047570" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047571
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047570" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047571" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047571
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047571" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047571" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047572
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047571" status:"pending" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047572" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047577
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047572" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047577" start:"1652047577" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047582
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047577" start:"1652047577" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047582" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047583
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047582" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047583" start:"1652047583" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047584
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047583" start:"1652047583" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047584" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047585
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047584" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047585" start:"1652047585" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047586
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047585" start:"1652047585" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047586" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047586
+old [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" entry:"1652042026" modified:"1652047586" status:"pending" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+new [annotation_1652042276:"tomorrow" description:"Call Hasan +FilmmakingYouTubeTasks" end:"1652047586" entry:"1652042026" modified:"1652047586" status:"completed" tags:"next" tags_next:"x" uuid:"6723ff4d-3dc5-4820-8ec9-e342383f29e2"]
+---
+time 1652047591
+old [description:"write everyday daily" due:"1652113800" entry:"1652045934" modified:"1652045934" status:"pending" until:"1653935400" uuid:"273abb00-bc4e-4e0c-8dc6-6bad6289e003"]
+new [description:"write everyday daily" due:"1652113800" end:"1652047591" entry:"1652045934" modified:"1652047591" status:"completed" until:"1653935400" uuid:"273abb00-bc4e-4e0c-8dc6-6bad6289e003"]
+---
+time 1652047611
+old [description:"Go to Nawala context +film" entry:"1652043758" modified:"1652043758" status:"pending" uuid:"7708d1f0-621d-4d13-be52-c286fc9249d8"]
+new [description:"Go to Nawala context +film" end:"1652047611" entry:"1652043758" modified:"1652047611" status:"deleted" uuid:"7708d1f0-621d-4d13-be52-c286fc9249d8"]
+---
+time 1652047613
+old [description:"write everyday" entry:"1652045748" modified:"1652045748" status:"pending" tags:"LastSolipsist" tags_LastSolipsist:"x" uuid:"0f288a75-5bb2-4f74-9b00-45e3cc622327"]
+new [description:"write everyday" end:"1652047613" entry:"1652045748" modified:"1652047613" status:"deleted" tags:"LastSolipsist" tags_LastSolipsist:"x" uuid:"0f288a75-5bb2-4f74-9b00-45e3cc622327"]
+---
+time 1652047614
+old [description:"film" entry:"1652044103" modified:"1652044103" status:"pending" tags:"PalaDo" tags_PalaDo:"x" uuid:"c0d8f951-5069-4f88-86b3-14742cf1a972"]
+new [description:"film" end:"1652047614" entry:"1652044103" modified:"1652047614" status:"deleted" tags:"PalaDo" tags_PalaDo:"x" uuid:"c0d8f951-5069-4f88-86b3-14742cf1a972"]
+---
+time 1652047614
+old [description:"Assemble act 2 context film" entry:"1652043669" modified:"1652043669" status:"pending" tags:"PalaDoc,edit" tags_PalaDoc:"x" tags_edit:"x" uuid:"5ddb3236-3cc4-4ea2-8a44-52463e5c288a"]
+new [description:"Assemble act 2 context film" end:"1652047614" entry:"1652043669" modified:"1652047614" status:"deleted" tags:"PalaDoc,edit" tags_PalaDoc:"x" tags_edit:"x" uuid:"5ddb3236-3cc4-4ea2-8a44-52463e5c288a"]
+---
+time 1652047614
+old [description:"Audio Act2" entry:"1652042708" modified:"1652042708" project:"PalaDoc" status:"pending" uuid:"77a95cf9-dd7f-4a30-b823-47620f9c3930"]
+new [description:"Audio Act2" end:"1652047614" entry:"1652042708" modified:"1652047614" project:"PalaDoc" status:"deleted" uuid:"77a95cf9-dd7f-4a30-b823-47620f9c3930"]
+---
+time 1652047615
+old [description:"no smoking today" entry:"1652042851" modified:"1652042851" project:"StopSmoking" status:"pending" tags:"PersonalTasks" tags_PersonalTasks:"x" uuid:"f512610b-426d-4b85-9267-697045a8fe17"]
+new [description:"no smoking today" end:"1652047615" entry:"1652042851" modified:"1652047615" project:"StopSmoking" status:"deleted" tags:"PersonalTasks" tags_PersonalTasks:"x" uuid:"f512610b-426d-4b85-9267-697045a8fe17"]
+---
+time 1652047729
+new [description:"Assemble Act 2 tomorrow" entry:"1652047729" modified:"1652047729" status:"pending" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+---
+time 1652047849
+old [description:"Assemble Act 2 tomorrow" entry:"1652047729" modified:"1652047729" status:"pending" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" modified:"1652047849" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+---
+time 1652047849
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047849" imask:"0" modified:"1652047849" parent:"60c34fe0-871e-4a74-b158-415660649850" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"pending" tags:"Assembly" tags_Assembly:"x" uuid:"360b07f0-37e9-4adb-88c1-079db0daccc8"]
+---
+time 1652047849
+old [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" modified:"1652047849" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"-" modified:"1652047849" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+---
+time 1652073386
+old [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"-" modified:"1652047849" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+" modified:"1652073386" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+---
+time 1652073386
+old [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047849" imask:"0" modified:"1652047849" parent:"60c34fe0-871e-4a74-b158-415660649850" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"pending" tags:"Assembly" tags_Assembly:"x" uuid:"360b07f0-37e9-4adb-88c1-079db0daccc8"]
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" end:"1652073386" entry:"1652047849" imask:"0" modified:"1652073386" parent:"60c34fe0-871e-4a74-b158-415660649850" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"completed" tags:"Assembly" tags_Assembly:"x" uuid:"360b07f0-37e9-4adb-88c1-079db0daccc8"]
+---
+time 1652073419
+new [description:"Assemble act 2 in audio +PalaDoc today" entry:"1652073419" modified:"1652073419" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"f636f5f3-fc08-4018-8c84-cc67ff79ac6e"]
+---
+time 1652073517
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073517" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073521
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073517" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073521" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073522
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073521" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073522" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073524
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073522" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073524" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073528
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073524" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073528" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073529
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073528" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073529" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073530
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073529" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073530" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073531
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073530" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073531" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073531
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073531" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073531" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073532
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073531" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073532" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073532
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073532" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073532" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073532
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073532" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073532" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073533
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073532" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073533" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073533
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073533" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073533" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073535
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073533" status:"pending" tags:"Agathinai,PalaDoc,YouTube,next" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" tags_next:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073535" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652073775
+new [description:"+ Stop Smoking +HomeChores" entry:"1652073775" modified:"1652073775" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"03c5bd32-5da6-440d-8ef0-2c3fa495d63b"]
+---
+time 1652073826
+old [description:"+ Stop Smoking +HomeChores" entry:"1652073775" modified:"1652073775" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"03c5bd32-5da6-440d-8ef0-2c3fa495d63b"]
+new [description:"+ Stop Smoking +HomeChores" end:"1652073826" entry:"1652073775" modified:"1652073826" status:"completed" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"03c5bd32-5da6-440d-8ef0-2c3fa495d63b"]
+---
+time 1652073871
+new [description:"+ Clean the bathroom tomoorow" entry:"1652073871" modified:"1652073871" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"6d2be43b-cb30-48c3-8571-eee38f10485a"]
+---
+time 1652073919
+old [description:"+ Clean the bathroom tomoorow" entry:"1652073871" modified:"1652073871" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"6d2be43b-cb30-48c3-8571-eee38f10485a"]
+new [description:"+ Clean the bathroom tomoorow" end:"1652073919" entry:"1652073871" modified:"1652073919" status:"completed" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"6d2be43b-cb30-48c3-8571-eee38f10485a"]
+---
+time 1652073984
+new [description:"+ clean bathroom" entry:"1652073984" modified:"1652073984" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"d1c32d9d-3ee5-4754-b9bd-787138ba42de"]
+---
+time 1652074000
+new [description:"+ no smoking" entry:"1652074000" modified:"1652074000" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"acc05de3-aebe-40dd-ba83-8716473af281"]
+---
+time 1652074062
+old [description:"+ clean bathroom" entry:"1652073984" modified:"1652073984" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"d1c32d9d-3ee5-4754-b9bd-787138ba42de"]
+new [description:"clean bathroom" entry:"1652073984" modified:"1652074062" status:"pending" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"d1c32d9d-3ee5-4754-b9bd-787138ba42de"]
+---
+time 1652074082
+old [description:"+ no smoking" entry:"1652074000" modified:"1652074000" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"acc05de3-aebe-40dd-ba83-8716473af281"]
+new [description:"No smoking" entry:"1652074000" modified:"1652074082" status:"pending" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"acc05de3-aebe-40dd-ba83-8716473af281"]
+---
+time 1652074333
+new [description:"+ shopping" entry:"1652074333" modified:"1652074333" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"5cf1e4a8-94fa-4ee2-b2b1-1838e3c5ca28"]
+---
+time 1652076193
+old [description:"Assemble act 2 in audio +PalaDoc today" entry:"1652073419" modified:"1652073419" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"f636f5f3-fc08-4018-8c84-cc67ff79ac6e"]
+new [description:"Assemble act 2 in audio +PalaDoc today" end:"1652076193" entry:"1652073419" modified:"1652076193" status:"deleted" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"f636f5f3-fc08-4018-8c84-cc67ff79ac6e"]
+---
+time 1652076194
+old [description:"Add Act 3 audio by Thursday +PalaDoc" entry:"1652073517" modified:"1652073535" status:"pending" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+new [description:"Add Act 3 audio by Thursday +PalaDoc" end:"1652076194" entry:"1652073517" modified:"1652076194" status:"deleted" tags:"Agathinai,PalaDoc,YouTube" tags_Agathinai:"x" tags_PalaDoc:"x" tags_YouTube:"x" uuid:"e12faf05-ccc0-43f2-9f4c-704efd49ecdc"]
+---
+time 1652076194
+old [description:"clean bathroom" entry:"1652073984" modified:"1652074062" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"d1c32d9d-3ee5-4754-b9bd-787138ba42de"]
+new [description:"clean bathroom" end:"1652076194" entry:"1652073984" modified:"1652076194" status:"deleted" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"d1c32d9d-3ee5-4754-b9bd-787138ba42de"]
+---
+time 1652076194
+old [description:"No smoking" entry:"1652074000" modified:"1652074082" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"acc05de3-aebe-40dd-ba83-8716473af281"]
+new [description:"No smoking" end:"1652076194" entry:"1652074000" modified:"1652076194" status:"deleted" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"acc05de3-aebe-40dd-ba83-8716473af281"]
+---
+time 1652076195
+old [description:"+ shopping" entry:"1652074333" modified:"1652074333" status:"pending" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"5cf1e4a8-94fa-4ee2-b2b1-1838e3c5ca28"]
+new [description:"+ shopping" end:"1652076195" entry:"1652074333" modified:"1652076195" status:"deleted" tags:"HomeChores,StopSmoking" tags_HomeChores:"x" tags_StopSmoking:"x" uuid:"5cf1e4a8-94fa-4ee2-b2b1-1838e3c5ca28"]
+---
+time 1652266243
+new [description:"Assemble Act 2 tomorrow" due:"1652196600" entry:"1652266243" imask:"1" modified:"1652073386" parent:"60c34fe0-871e-4a74-b158-415660649850" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"pending" tags:"Assembly" tags_Assembly:"x" uuid:"c2ba60c9-8968-4539-957e-93d72489c73d"]
+---
+time 1652266243
+new [description:"Assemble Act 2 tomorrow" due:"1652283000" entry:"1652266243" imask:"2" modified:"1652073386" parent:"60c34fe0-871e-4a74-b158-415660649850" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"pending" tags:"Assembly" tags_Assembly:"x" uuid:"be718375-95ae-4367-8af6-ee2db87c1f71"]
+---
+time 1652266243
+old [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+" modified:"1652073386" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+--" modified:"1652266243" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+---
+time 1652286569
+new [description:"Assemble Act 2 tomorrow" due:"1652369400" entry:"1652286569" imask:"3" modified:"1652266243" parent:"60c34fe0-871e-4a74-b158-415660649850" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"pending" tags:"Assembly" tags_Assembly:"x" uuid:"1631de25-7e32-4ddf-8b9a-09aeda4d3b82"]
+---
+time 1652286569
+old [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+--" modified:"1652266243" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+---" modified:"1652286569" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+---
+time 1652369402
+new [description:"Assemble Act 2 tomorrow" due:"1652455800" entry:"1652369402" imask:"4" modified:"1652286569" parent:"60c34fe0-871e-4a74-b158-415660649850" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"pending" tags:"Assembly" tags_Assembly:"x" uuid:"c0ed5efe-1661-4bbd-b418-64ce456a8197"]
+---
+time 1652369402
+old [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+---" modified:"1652286569" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+----" modified:"1652369402" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+---
+time 1652455811
+new [description:"Assemble Act 2 tomorrow" due:"1652542200" entry:"1652455811" imask:"5" modified:"1652369402" parent:"60c34fe0-871e-4a74-b158-415660649850" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"pending" tags:"Assembly" tags_Assembly:"x" uuid:"d1bce376-4ddd-41c8-b542-4569747af373"]
+---
+time 1652455811
+old [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+----" modified:"1652369402" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+new [description:"Assemble Act 2 tomorrow" due:"1652110200" entry:"1652047729" mask:"+-----" modified:"1652455811" project:"PalaDoc" recur:"daily" rtype:"periodic" scheduled:"1652067000" status:"recurring" tags:"Assembly" tags_Assembly:"x" uuid:"60c34fe0-871e-4a74-b158-415660649850"]
+---

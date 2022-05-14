@@ -1,0 +1,8 @@
+= How to find and replace a word for multiple files = 
+
+== Wed May  4 11:52:29 AM +0530 2022 ==
+
+- Pretty Simple actually:
+    - cd /path/to/your/folder
+    - sed -i 's/foo/bar/g' *
+

@@ -1,0 +1,9 @@
+CS-2021-10-25-001 :BashCommands::LinuxProductivity:
+==How To Delete Files Older Than _n_ days==
+- 'find /opt/backup -type f -mtime +30':_find files older than 30 days in the /opt/backup directory_
+- 'find /opt/backup -type f -mtime +30 -delete': _delete files older than 30 days in the /opt/backup directory_
+
+
+REFERENCES: 
+1. [[https://tecadmin.net/delete-files-older-x-days/|TecAdmin]]
+

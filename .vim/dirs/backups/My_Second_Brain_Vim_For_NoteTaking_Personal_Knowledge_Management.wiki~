@@ -1,0 +1,37 @@
+==My_Second_Brain_Vim_For_NoteTaking_Personal_Knowledge_Management==
+
+Mon Apr 25 06:33:03 PM +0530 2022
+
+
+1. What is a second brain? Why do I need one?
+   - Modern life is an information overload
+   - We have to recognize though that we are living in the greatest information era in human history? It behoves us to feed our curiosities with new information.  
+   - This is easier said than done: How do you ensure that some new piece of information that you learnt is retained, retrieveable, and useful to either your work or approach to your life, whether socially or professioally?   
+   - Personally, I am a novelist, engaged in building a ficitional world. How can I engage in world-building when I don't know anything about the world. I owe it to my writing, and my readers. 
+2. Approaches 
+   I. Analogue
+   II. Digital
+3. How I used to do
+   I. Drawbacks - Pencil and paper 
+   II. Drawbacks - Browser based, thus open to distraction
+   III. Drawbacks - Word processors are terrible for note-taking 
+4. What I needed 
+    - Inter-connected files
+    - One 'app'
+    - Fast as fuck
+    - Not anchored to a paid service or software 
+6. Zettlekasten  
+   - [ ] Who made the Zettlekasten
+   - [ ] Why it works
+7. My Second Brain: A Feature Tour
+    - Tools used
+      - Vim
+      - Vimwiki
+      - Vim-Zettel
+      - FZF
+    - Features 
+      - Inter-linkability - almost a website that I can get lost in for hours
+      - The inbox, a brain dump
+      - The main home pages, a place for sober reflection and more concrete thoughts
+      - Export into HTML and PDF
+      - Access from anywhere

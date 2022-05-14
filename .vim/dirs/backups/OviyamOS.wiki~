@@ -1,0 +1,43 @@
+MI-2021-11-04-004 :MiragianStudios: :OviyamOS:
+
+== WHAT IS OviyamOS==
+
+- It would have a Writer, forked on NeoVim, specially for writing
+        - It would be able to 'update' its narrative repos with a constantly evolving and transforming community fictional world that is the Miragian Cycles
+        - It would have a illustrator/image manipulation software that is forked off Gimp and Kirka
+        - The visual tools will have repos specific to visual assets such as color palettes, vectors, and other material to build on
+        - It would have an Audacity like Recording and Audio editor
+        - This would have access to a sound and audio repo, which would include everything from sound effects to the music, the scores, and other audio assets linked to the MiragianStudios
+        - For software engineers and hackers, it would download codebases for the many software platforms and apps, including OviyamOS, the audio recorder, the visual manipulation tools, for them to extend and improve as they see fit.
+        - The implication of the above is that this is going to be an Arm-based architecture, instead of the current Intel and Arm-based architecture 
+        - The need to have version control for what will be this large community repository for world-builders is that there will be a Git-like version control system for Creatives from the non-tech sectors
+
+
+Mon Apr 25 11:32:27 PM +0530 2022
+
+== Possible Pricing Models for MiragianStudios ==
+
+1. There are three modes available - consume, create, contribute
+2. It will be free to consume, but not free to create or contribute
+3. Create and Contribute modes subsidize the service with a monthly payment of 10-20 USD
+4. People who access the service from poorer parts of the world will be able to create or contribute for free
+    a. We will apply principles of fair taxation to our pricing - i.e. people from countries below a certain GDP, will be allowed to create for free while people from first world countries will have to pay. 
+    b. *NO ADVERTISING*
+    c. Privacy based, and using open source tech
+6. Creators and contributors need a toolkit - at first this will be [[OVIWrite]] for writers and coders, but eventually go to the world-building [[world-building console|world-building console]] which will allow creators of all sorts to contribute to the world-building. 
+7. The console will have tiers - the PLAIN TEXT GOD Model (for writers and coders), the BUTTERFLY GOD Model (for digital artists), WIZARD OF PUPPETS Model (for artists working in visual and motion fx)
+8. The tiers allow to focus on different kinds of creators and reflect the kind of hardware needed for one such creator type God.
+
+
+
+
+
+
+
+
+
+= Backlinks =
+    - [[MI-2021-11-03-001|MI-2021-11-03-001]]
+    - index
+    - Inbox
+    - [[Miragian_Studios_Inbox|Miragian_Studios_Inbox]]

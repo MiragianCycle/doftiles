@@ -1,0 +1,28 @@
+= NW-CS-2021-12-08-001 = :TryHackMe: :NetworkingBasics: 
+
+=== OSI Layer ===
+
+The OSI Model consists of 7 layers, namely:
+
+- [[Application]]
+- [[Presentation]]
+- [[Session]]
+- [[Transport]]
+- [[Network]]
+- [[Data Link]]
+- [[Physical]]
+
+One way to remember that is to have a nmemonic: 
+*Anxious* 
+*Pale* 
+*Shakespeare* 
+*Treated* 
+*Nervous* 
+*Drunks* 
+*Patiently*
+
+
+[[index]]
+[[Inbox]]
+[[Computer_Science_Inbox|Computer_Science_Inbox]]
+[[IP Addresses]]

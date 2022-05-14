@@ -1,0 +1,46 @@
+# The 'task <id> edit' command allows you to modify all aspects of a task
+# using a text editor.  Below is a representation of all the task details.
+# Modify what you wish, and when you save and quit your editor,
+# Taskwarrior will read this file, determine what changed, and apply
+# those changes.  If you exit your editor without saving or making
+# modifications, Taskwarrior will do nothing.
+#
+# Lines that begin with # represent data you cannot change, like ID.
+# If you get too creative with your editing, Taskwarrior will send you
+# back to the editor to try again.
+#
+# Should you find yourself in an endless loop, re-editing the same file,
+# just quit the editor without making any changes.  Taskwarrior will
+# notice this and stop the editing.
+#
+# Name               Editable details
+# -----------------  ----------------------------------------------------
+# ID:                1
+# UUID:              60c34fe0-871e-4a74-b158-415660649850
+# Status:            Pending
+# Mask:              
+# iMask:             
+  Project:           PalaDoc
+# Separate the tags with spaces, like this: tag1 tag2
+  Tags:              Assembly 
+  Description:       Assemble Act 2 tomorrow
+  Created:           2022-05-09 03:38:49
+  Started:           
+  Ended:             
+  Scheduled:        2022-05-09 09:00:00  
+  Due:              2022-05-09 21:00:00 
+  Until:             
+  Recur:             
+  Wait until:        
+# Modified:          2022-05-09 03:38:49
+  Parent:            
+# Annotations look like this: <date> -- <text> and there can be any number of them.
+# The ' -- ' separator between the date and text field should not be removed.
+# Multiline annotations need to be indented up to <date> (21 spaces).
+# A "blank slot" for adding an annotation follows for your convenience.
+  Annotation:        2022-05-09 03:39:12 -- 
+# Dependencies should be a comma-separated list of task IDs/UUIDs or ID ranges, with no spaces.
+  Dependencies:      
+# User Defined Attributes
+  UDA priority:      
+# End
