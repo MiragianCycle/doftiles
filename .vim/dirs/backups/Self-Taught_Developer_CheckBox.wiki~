@@ -1,0 +1,65 @@
+=Self-Taught Developer Checklist =
+
+General Programming
+    -  Programming Fundamentals
+    -  Object Oriented Programming
+- Static Typing
+- Programming Paradigms
+- Async
+- Concurrency
+- Parallelism
+
+Data Structures and Algorithms
+- Big O Notation
+   - Big Theta
+   - Big Omega
+- Data Structures
+    - Arrays
+    - Stacks, Queues, Priority Queue
+    - Linked Lists
+    - Hash-Tables
+         • Hash Functions
+- Trees
+    - B-trees
+    - AVL Trees
+    - B+ Trees
+    - Binary Trees
+    - Binary Search Trees
+- Heaps
+    - Min Heap
+    - Max Heap
+    - Heap Implementation
+- Graphs & Graph Theory 
+- Sets & Set Theory
+-Algorithm Design & Analysis
+
+Design
+- UML Modeling
+- Design Principles
+- Design Patterns
+
+Tools
+- Git/Version Control
+- Linux Commands
+- IDEs
+
+Databases
+- SQL
+- Database Design
+
+Web Technologies
+- HTTP
+      - HTTP Methods
+- API's & JSON
+- Client-Server Model
+- Networking
+
+
+
+
+
+
+
+[[index]]
+[[Inbox]]
+[[CS]]

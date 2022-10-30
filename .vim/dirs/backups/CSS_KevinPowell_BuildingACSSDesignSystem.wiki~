@@ -1,0 +1,35 @@
+==Creating a Design System with CSS ==
+
+== Fri Oct 28 02:10:08 PM +0530 2022==
+
+
+= THE DESIGN SYSTEM =
+- The Project will be based on a project provided by FrontEnd Mentor
+- We will appraoch this with 
+   - Custom properties
+   - Utility classes that will allow us to save time
+       - Utility classes do one thing and do it well
+       - Often have only one declaration (multiple are allowed, as long as multiple declarations are still doing one task)
+       - Utility classes allow for modular design, and allow us to write less code in the long run
+   - Don't stress too much over layout
+= THE HOME PAGE = 
+= NAVIGATION =
+= THE DESTINATION PAGE=
+= THE TABS = 
+
+
+
+
+
+
+
+
+
+
+==REFERENCES==
+1. [[https://youtu.be/lRaL-8qZ0mM| Kevin Powell, Creating a CSS Design System]]
+2. [[https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3/hub/space-tourism-multipage-website-Sljx1Pk4A2| Front end Mentor Project Files]]
+
+[[index]]
+[[Inbox]]
+[[CS]]

@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/home/theena/vimwiki_html'
-let g:netrw_dirhist_6='/home/theena'
-let g:netrw_dirhist_5='/home/theena/Documents'
-let g:netrw_dirhist_4='/home/theena/Documents/GitHub'
-let g:netrw_dirhist_3='/home/theena/Documents/GitHub/oneplus7git'
-let g:netrw_dirhist_2='/home/theena/Documents/GitHub/oneplus7git/FeynmanMethod'
-let g:netrw_dirhist_1='/home/theena/Documents/GitHub/oneplus7git/FeynmanMethod/zettlekasten'

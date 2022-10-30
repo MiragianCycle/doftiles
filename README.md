@@ -1,2 +1,0 @@
-# doftiles
-my dotfiles
